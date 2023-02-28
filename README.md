@@ -2,7 +2,7 @@
 
 This is my term project. The task was to made PCB and full documentation set from given schematic diagram and article.
 
-Device is compact heart rate monitor based on schematic diagram from "Радио" ("Radio") magazine. All parts are Russian and can be bought now.
+Device is compact heart rate monitor based on schematic diagram from [article](http://archive.radio.ru/web/1994/08/031/) published in "Радио" ("Radio") magazine (№8, 1994, pp. 31-32). All parts are Russian and can be bought now.
 
 ## Device
 
